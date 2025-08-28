@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+     font-family: "Happy Monkey", system-ui;
+
+    color: white;
+    text-shadow: 0 0 3px black;
+
+     background-color: #a2d2ff;
+}
+#sis-img {
+    width: 300px;
+    border-radius: 50%;
+    border: 5px solid pink;
+    box-shadow: 0 0 5px black;
+}
+.pink_background {
+    padding: 5px 10px;
+    background-color: pink;
+    border-radius: 5px;
+    box-shadow: 0 0 5px black;
+}
